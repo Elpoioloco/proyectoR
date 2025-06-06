@@ -1,0 +1,2 @@
+Para hacer funcionar este proyecto primero tiene que poner en la consola dentro de visual studio en la carpeta npm install para que se instale todo, despues tiene que importar el csv dentro de la tabla de productos
+y debe tenr instalado nodejs junto con npm
